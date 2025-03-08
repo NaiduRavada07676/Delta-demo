@@ -1,3 +1,3 @@
 # Delta-demo
 This is a Spotify clone ...
-thankyou..
+this work on it only html&css..
